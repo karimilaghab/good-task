@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-The main focuses in this project is coding with React, Redux and TypeScript.
+The main focus in this project is coding with React, Redux and TypeScript.
 
 ## Available Scripts
 
