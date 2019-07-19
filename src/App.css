@@ -1,0 +1,25 @@
+.app {
+  text-align: center;
+}
+.col {
+  padding: 0 auto;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+.app-header {
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

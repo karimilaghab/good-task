@@ -1,0 +1,71 @@
+.box {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.myiclass {
+  display: inline-flex;
+  vertical-align: middle;
+  padding-bottom: 3px;
+  padding-right: 5px;
+}
+.katy {
+  display: inline-flex;
+}
+.mar {
+  margin-top: 1em;
+}
+.marg {
+  margin: 4em 0;
+}
+.infocenter {
+  margin: 0 auto;
+  margin-bottom: 2em;
+}
+
+.margtop {
+  margin: 3em;
+}
+.material-icons {
+  font-size: 2.4em;
+  cursor: pointer;
+}
+.card {
+  width: 20em;
+  height: 28em;
+}
+
+.card .card-image img {
+  width: 20em;
+  height: 10em;
+}
+.card .card-image .card-title {
+  color: black;
+  font-weight: 400;
+}
+.cart {
+  margin-top: 20px;
+}
+.collection .collection-item {
+  display: flex;
+}
+
+.collection-item.avatar .title {
+  font-size: 2rem;
+  font-weight: 500;
+  color: #ee6e73;
+  margin-bottom: 20px;
+}
+.collection .collection-item img {
+  width: 5rem;
+  margin-right: 2rem;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+}
+.collection-item.avatar {
+  padding-left: 2px !important;
+}
+.item-desc {
+  align-self: center;
+}

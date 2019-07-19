@@ -1,0 +1,440 @@
+{
+  "products": [
+    {
+      "_index": "charitygifts",
+      "_type": "doc",
+      "_id": "5290",
+      "_score": 6.226777,
+      "_source": {
+        "@version": "1",
+        "publishedon": "2019-06-11T23:35:27.000Z",
+        "charities": [
+          {
+            "id": "2f696378-922a-e911-80dc-000d3ae00fed",
+            "name": "Garvan Research Foundation",
+            "image": "https://www.goodcompanytest.org/images/charity/uploadwi3tu5yo.jpg"
+          }
+        ],
+        "donatedamount": 0,
+        "type": "charitygift",
+        "slug": "garvan-research-foundation/donate-to-our-research",
+        "@timestamp": "2019-06-11T23:36:03.539Z",
+        "giftprice": 12.0,
+        "gifttype": "Fixed",
+        "title": "Donate to our Research",
+        "modifiedon": "2019-06-11T23:35:27.000Z",
+        "donationscount": 0,
+        "id": 5290,
+        "description": "Help unlock the secrets to many of the world’s major diseases. Your donations through the Garvan are vital to our work.",
+        "matchedamount": 0,
+        "image": "https://www.goodcompanytest.org/images/products/uploadcdoe4csg.JPG",
+        "causes": [
+          {
+            "name": "Global Health"
+          }
+        ],
+        "giftid": "7221a678-3868-4642-98b5-df2aa362169e",
+        "createdon": "2019-06-11T23:35:27.000Z"
+      }
+    },
+    {
+      "_index": "charitygifts",
+      "_type": "doc",
+      "_id": "7725",
+      "_score": 6.1566854,
+      "_source": {
+        "@version": "1",
+        "publishedon": "2019-06-11T23:40:25.000Z",
+        "charities": [
+          {
+            "id": "5b696378-922a-e911-80dc-000d3ae00fed",
+            "name": "The Royal Childrens Hospital Foundation",
+            "image": "https://www.goodcompanytest.org/images/charity/uploado2oymqvr.jpg"
+          }
+        ],
+        "donatedamount": 0,
+        "type": "charitygift",
+        "slug": "the-royal-childrens-hospital-foundation/sponsor-a-bed-change-a-life-5-000",
+        "@timestamp": "2019-06-11T23:40:56.706Z",
+        "giftprice": 5000.0,
+        "gifttype": "Fixed",
+        "title": "Sponsor a bed, change a life - $5,000",
+        "modifiedon": "2019-06-11T23:40:25.000Z",
+        "donationscount": 0,
+        "id": 7725,
+        "description": "Each year, more than 45,000 sick children are admitted to The Royal Children’s Hospital (RCH).",
+        "matchedamount": 0,
+        "image": "https://www.goodcompanytest.org/images/products/uploadbmdntvf3.jpg",
+        "causes": [
+          {
+            "name": "Children & Youth"
+          },
+          {
+            "name": "Disaster Relief"
+          },
+          {
+            "name": "Education"
+          },
+          {
+            "name": "Global Health"
+          }
+        ],
+        "giftid": "1a44b0ef-715e-4e93-8efa-9329158d3ea4",
+        "createdon": "2019-06-11T23:40:25.000Z"
+      }
+    },
+    {
+      "_index": "charitygifts",
+      "_type": "doc",
+      "_id": "6264",
+      "_score": 6.1516285,
+      "_source": {
+        "@version": "1",
+        "publishedon": "2019-06-11T23:40:25.000Z",
+        "charities": [
+          {
+            "id": "e7686378-922a-e911-80dc-000d3ae00fed",
+            "name": "Movember Foundation",
+            "image": "https://www.goodcompanytest.org/images/charity/uploadhjwsxkzy.jpg"
+          }
+        ],
+        "donatedamount": 25680.0,
+        "type": "charitygift",
+        "slug": "movember-foundation/donate-to-movember",
+        "@timestamp": "2019-06-11T23:40:56.474Z",
+        "giftprice": 20.0,
+        "gifttype": "Fixed",
+        "title": "Donate to Movember",
+        "modifiedon": "2019-06-11T23:40:25.000Z",
+        "donationscount": 199,
+        "id": 6264,
+        "description": "Make a donation to movember.com with funds going to the Prostate Cancer Foundation of Australia and beyond blue - the depression initiative",
+        "matchedamount": 0,
+        "image": "https://www.goodcompanytest.org/images/products/imgpr641.jpg",
+        "causes": [
+          {
+            "name": "Global Health"
+          },
+          {
+            "name": "Peace"
+          }
+        ],
+        "giftid": "03a04856-26f5-4751-9fc4-8b02e6aa97ba",
+        "createdon": "2019-06-11T23:40:25.000Z"
+      }
+    },
+    {
+      "_index": "charitygifts",
+      "_type": "doc",
+      "_id": "4992",
+      "_score": 5.8317885,
+      "_source": {
+        "@version": "1",
+        "publishedon": "2019-06-11T23:35:27.000Z",
+        "charities": [
+          {
+            "id": "c4686378-922a-e911-80dc-000d3ae00fed",
+            "name": "Dymocks Children's Charities",
+            "image": "https://www.goodcompanytest.org/images/charity/uploadydyckwqd.png"
+          }
+        ],
+        "donatedamount": 650.0,
+        "type": "charitygift",
+        "slug": "dymocks-children-s-charities/books-for-schools",
+        "@timestamp": "2019-06-11T23:35:59.864Z",
+        "giftprice": 50.0,
+        "gifttype": "Fixed",
+        "title": "Books for Schools",
+        "modifiedon": "2019-06-11T23:35:27.000Z",
+        "donationscount": 9,
+        "id": 4992,
+        "description": "Every $50 you donate provides books for a child at a priority primary school for a year!",
+        "matchedamount": 0,
+        "image": "https://www.goodcompanytest.org/images/products/uploadq5jynmcn.jpg",
+        "causes": [
+          {
+            "name": "Arts & Culture"
+          },
+          {
+            "name": "Education"
+          },
+          {
+            "name": "Peace"
+          }
+        ],
+        "giftid": "03c003cd-df65-49f9-a274-08a286db96c8",
+        "createdon": "2019-06-11T23:35:27.000Z"
+      }
+    },
+    {
+      "_index": "charitygifts",
+      "_type": "doc",
+      "_id": "5771",
+      "_score": 5.760621,
+      "_source": {
+        "@version": "1",
+        "publishedon": "2019-06-11T23:36:04.000Z",
+        "charities": [
+          {
+            "id": "c5696378-922a-e911-80dc-000d3ae00fed",
+            "name": "Joy Melbourne Inc.",
+            "image": "https://www.goodcompanytest.org/images/charity/upload3hat0ycr.png"
+          }
+        ],
+        "donatedamount": 2.0,
+        "type": "charitygift",
+        "slug": "joy-melbourne-inc-/donate-to-joy-this-radiothon",
+        "@timestamp": "2019-06-11T23:36:37.048Z",
+        "giftprice": 2.0,
+        "gifttype": "Fixed",
+        "title": "Donate to JOY this Radiothon",
+        "modifiedon": "2019-06-11T23:36:04.000Z",
+        "donationscount": 1,
+        "id": 5771,
+        "description": "Financial support is extremely important to keep us On-Air broadcasting Out, Loud and Proud broadcasting for the LGBTI community.",
+        "matchedamount": 0,
+        "image": "https://www.goodcompanytest.org/images/products/uploadbuvb1vql.png",
+        "causes": [
+          {
+            "name": "Arts & Culture"
+          },
+          {
+            "name": "Peace"
+          }
+        ],
+        "giftid": "c9f47654-41ae-4c97-afb8-738b98f2ee09",
+        "createdon": "2019-06-11T23:36:04.000Z"
+      }
+    },
+    {
+      "_index": "charitygifts",
+      "_type": "doc",
+      "_id": "4024",
+      "_score": 5.757886,
+      "_source": {
+        "@version": "1",
+        "publishedon": "2019-06-11T23:25:28.000Z",
+        "charities": [
+          {
+            "id": "a36d6378-922a-e911-80dc-000d3ae00fed",
+            "name": "Australian Society For Promoting Education",
+            "image": "https://www.goodcompanytest.org/images/charity/uploadzly5c1ju.png"
+          }
+        ],
+        "donatedamount": 0,
+        "type": "charitygift",
+        "slug": "australian-society-for-promoting-education/help-me-pay-my-high-school-fee",
+        "@timestamp": "2019-06-11T23:26:02.593Z",
+        "giftprice": 30.0,
+        "gifttype": "Fixed",
+        "title": "Help Me Pay My High School Fee",
+        "modifiedon": "2019-06-11T23:25:28.000Z",
+        "donationscount": 0,
+        "id": 4024,
+        "description": "Donate and share in my High School fee and travel expenses. All Donations to ASPE are 100% Tax Deductible.",
+        "matchedamount": 0,
+        "image": "https://www.goodcompanytest.org/images/products/uploadfwpame1z.png",
+        "causes": [
+          {
+            "name": "Children & Youth"
+          },
+          {
+            "name": "Disabilities"
+          },
+          {
+            "name": "Education"
+          },
+          {
+            "name": "Peace"
+          }
+        ],
+        "giftid": "15dcba9f-80d0-4ccc-9e4a-26a90385bd35",
+        "createdon": "2019-06-11T23:25:28.000Z"
+      }
+    },
+    {
+      "_index": "charitygifts",
+      "_type": "doc",
+      "_id": "4022",
+      "_score": 5.757886,
+      "_source": {
+        "@version": "1",
+        "publishedon": "2019-06-11T23:25:28.000Z",
+        "charities": [
+          {
+            "id": "a36d6378-922a-e911-80dc-000d3ae00fed",
+            "name": "Australian Society For Promoting Education",
+            "image": "https://www.goodcompanytest.org/images/charity/uploadzly5c1ju.png"
+          }
+        ],
+        "donatedamount": 130.0,
+        "type": "charitygift",
+        "slug": "australian-society-for-promoting-education/buy-me-stationary-for-my-high-school-technical-education",
+        "@timestamp": "2019-06-11T23:26:02.807Z",
+        "giftprice": 10.0,
+        "gifttype": "Fixed",
+        "title": "Buy Me Stationary For My High School & Technical Education",
+        "modifiedon": "2019-06-11T23:25:28.000Z",
+        "donationscount": 8,
+        "id": 4022,
+        "description": "Donate & Contribute to buy stationary for high school and technical education. All Donations to ASPE are 100% Tax Deductible.",
+        "matchedamount": 0,
+        "image": "https://www.goodcompanytest.org/images/products/upload0o5ctt01.png",
+        "causes": [
+          {
+            "name": "Children & Youth"
+          },
+          {
+            "name": "Disabilities"
+          },
+          {
+            "name": "Education"
+          },
+          {
+            "name": "Peace"
+          }
+        ],
+        "giftid": "2175446f-b542-444a-a5e9-fc8e01f5390e",
+        "createdon": "2019-06-11T23:25:28.000Z"
+      }
+    },
+    {
+      "_index": "charitygifts",
+      "_type": "doc",
+      "_id": "4026",
+      "_score": 5.757886,
+      "_source": {
+        "@version": "1",
+        "publishedon": "2019-06-11T23:25:28.000Z",
+        "charities": [
+          {
+            "id": "a36d6378-922a-e911-80dc-000d3ae00fed",
+            "name": "Australian Society For Promoting Education",
+            "image": "https://www.goodcompanytest.org/images/charity/uploadzly5c1ju.png"
+          }
+        ],
+        "donatedamount": 0,
+        "type": "charitygift",
+        "slug": "australian-society-for-promoting-education/help-me-pay-my-university-fee",
+        "@timestamp": "2019-06-11T23:26:04.217Z",
+        "giftprice": 35.0,
+        "gifttype": "Fixed",
+        "title": "Help Me Pay My University Fee",
+        "modifiedon": "2019-06-11T23:25:28.000Z",
+        "donationscount": 0,
+        "id": 4026,
+        "description": "Donate and share in my University education fee and travel expenses. All Donations to ASPE are 100% Tax Deductible.",
+        "matchedamount": 0,
+        "image": "https://www.goodcompanytest.org/images/products/uploadvglw0kpb.png",
+        "causes": [
+          {
+            "name": "Children & Youth"
+          },
+          {
+            "name": "Disabilities"
+          },
+          {
+            "name": "Education"
+          },
+          {
+            "name": "Peace"
+          }
+        ],
+        "giftid": "7465a679-cce3-4708-a99f-bb4a2ce22ecf",
+        "createdon": "2019-06-11T23:25:28.000Z"
+      }
+    },
+    {
+      "_index": "charitygifts",
+      "_type": "doc",
+      "_id": "4378",
+      "_score": 5.3827214,
+      "_source": {
+        "@version": "1",
+        "publishedon": "2019-06-11T23:36:04.000Z",
+        "charities": [
+          {
+            "id": "dd6b6378-922a-e911-80dc-000d3ae00fed",
+            "name": "CASPA",
+            "image": "https://www.goodcompanytest.org/images/charity/CASPA.jpg"
+          }
+        ],
+        "donatedamount": 100.0,
+        "type": "charitygift",
+        "slug": "caspa/technology-tools",
+        "@timestamp": "2019-06-11T23:36:37.139Z",
+        "giftprice": 100.0,
+        "gifttype": "Fixed",
+        "title": "technology tools",
+        "modifiedon": "2019-06-11T23:36:04.000Z",
+        "donationscount": 1,
+        "id": 4378,
+        "description": "Donate toward an ipad, tablet or lap top for a young person in care to help us purchase valuable / specialised IT equipment for the children who need the most help.",
+        "matchedamount": 0,
+        "image": "https://www.goodcompanytest.org/images/products/uploadwrfnsk2b.png",
+        "causes": [
+          {
+            "name": "Children & Youth"
+          },
+          {
+            "name": "Disabilities"
+          },
+          {
+            "name": "Education"
+          },
+          {
+            "name": "Peace"
+          }
+        ],
+        "giftid": "d22a5357-eefb-4101-b912-90b668307d86",
+        "createdon": "2019-06-11T23:36:04.000Z"
+      }
+    },
+    {
+      "_index": "charitygifts",
+      "_type": "doc",
+      "_id": "6710",
+      "_score": 5.3594,
+      "_source": {
+        "@version": "1",
+        "publishedon": "2019-06-11T23:40:25.000Z",
+        "charities": [
+          {
+            "id": "ce6d6378-922a-e911-80dc-000d3ae00fed",
+            "name": "Queensland Eye Institute Foundation",
+            "image": "https://www.goodcompanytest.org/images/charity/uploadybwszy5l.jpg"
+          }
+        ],
+        "donatedamount": 2.0,
+        "type": "charitygift",
+        "slug": "queensland-eye-institute-foundation/donate-to-qei-foundation-s-tax-appeal",
+        "@timestamp": "2019-06-11T23:40:56.827Z",
+        "giftprice": 2.0,
+        "gifttype": "Fixed",
+        "title": "Donate to QEI Foundation's Tax Appeal",
+        "modifiedon": "2019-06-11T23:40:25.000Z",
+        "donationscount": 1,
+        "id": 6710,
+        "description": "[b]Did you know 80% of all blindness is avoidable or treatable?\r\nYet over 450,000 Australians are blind or vision impaired (Vision2020 Australia).",
+        "matchedamount": 0,
+        "image": "https://www.goodcompanytest.org/images/products/uploadq2km1rnk.jpg",
+        "causes": [
+          {
+            "name": "Disabilities"
+          },
+          {
+            "name": "Education"
+          },
+          {
+            "name": "Global Health"
+          },
+          {
+            "name": "Peace"
+          }
+        ],
+        "giftid": "290d2b69-228b-41a0-b322-88a9f0e9d648",
+        "createdon": "2019-06-11T23:40:25.000Z"
+      }
+    }
+  ]
+}
