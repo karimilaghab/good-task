@@ -1,11 +1,9 @@
 import { IProduct } from "../../data/Data.interfaces";
 
 export declare interface ICartState {
-  items: (IProduct & {
-    quantity?: number;
-  })[];
+  items: IProduct[];
   addedItems: (IProduct & {
-    quantity?: number;
+    quantity: number;
   })[];
   total: number;
 }

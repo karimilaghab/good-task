@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import Currency from "react-currency-formatter";
 import { Link } from "react-router-dom";
-import Recipe from "./Recipe";
 import { Action, Dispatch } from "redux";
 import {
   removeItem,
@@ -96,12 +95,6 @@ class Cart extends Component<
               </li>
               {addedItems}
             </ul>
-          </div>
-        </div>
-        <div className="row text-center">
-          <div className="col s10 offset-2">
-            {/* tslint:disable-next-line */}
-            <Recipe history={this.props.history} />
           </div>
         </div>
       </div>
